@@ -2,12 +2,9 @@
 </br></br>
 
 ## 서비스 소개
+![표지](https://github.com/user-attachments/assets/5b320437-b215-4997-82b8-a54c0980bfdb)
 
-<p align="center">
-![표지](https://github.com/user-attachments/assets/db5c42c9-996c-4e09-9ab4-e2e6d6da2d21)
-</p>
-
-💡 **주제: “대학생” + “정보/뉴스 ”**
+💡 **주제: 대학생 + 정보/뉴스**
 
 
 
@@ -32,8 +29,8 @@
 
 | 역할        | 이름   | 
 | ----------- | ------ | 
-| 디자인 | 강유민 |
 | 기획 | 김소영 | 
+| 디자인 | 강유민 |
 | 프론트엔드  | 유민우 |
 | 프론트엔드  | 최정인 |
 | 백엔드      | 김민솔 | 
@@ -48,14 +45,7 @@
 ## 장표
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/4b40ac68-697b-4799-b67b-a75f6b8cd648" width="70%">
-<img src="https://github.com/user-attachments/assets/3ab26b02-cedf-4c3c-bd33-aa96dd7173f5" width="70%">
-<img src="https://github.com/user-attachments/assets/5dc7692e-852a-47ab-9bce-f444528a2725" width="70%">
-<img src="https://github.com/user-attachments/assets/f1b49e6b-9d2c-4b91-964a-139a4272b481" width="70%">
-<img src="https://github.com/user-attachments/assets/c44bf62b-85e6-478b-aa09-d445e39c5d35" width="70%">
-<img src="https://github.com/user-attachments/assets/71b8edc4-c2f9-42c5-9fed-1b064530d6b0" width="70%">
-<img src="https://github.com/user-attachments/assets/4747e14a-1384-4e81-9790-101e52aee15b" width="70%">
-<img src="https://github.com/user-attachments/assets/8e4431e5-5a52-47e6-b57b-a4c855e5bcf2" width="70%">
+
 </p>
 
   <hr/>
