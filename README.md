@@ -8,9 +8,9 @@
 
 
 
-##### 현대인의 사회적 웰니스를 위해 가족 관계 증진을 돕는 모바일 웹
+##### 대학생들을 위한 자취 정보 제공 서비스 
 
-가족과 떨어져 지내는 현대인을 위해, 부담 없이 일상 속에서 가족에 대한 마음을 전달해요. stew는 현대인의 사회적 웰니스를 위한 가족 관계 증진을 돕는 서비스입니다. 한 달에 두 번 요즘 나의 관심사를 설정하고, 일상 속에서 가족들이 요즘 무엇에 관심이 있는지 알아가며, 가족이 생각날 때마다 사진을 올립니다. 나를 생각해 준 가족들에게 전화를 걸어 봐요. 몸을 떨어져 있어도 마음만은 가까이 있는 것을 느낄 수 있습니다. 가족들을 떠올릴 때마다 우리 가족 스튜의 온도가 올라가며, 가족의 온기를 느낄 수 있어요.
+유니빌(UniVill)은 혼자 사는 대학생들의 보다 편리하고 경제적인 자취 생활을 위해 대학생 1인 가구들 간 정보 공유의 장을 제공합니다.
 
 
 </br></br>
@@ -44,8 +44,15 @@
 
 ## 장표
 
-<p align="center">
+![표지](https://github.com/user-attachments/assets/5a63a2af-b2b6-41ab-b9d9-3743dd2cd941)
+![01 서비스 배경](https://github.com/user-attachments/assets/a7bc55c7-6f85-44c3-a418-88096e1a80dd)
+![리서치](https://github.com/user-attachments/assets/5ac7427b-320b-414f-a85d-2333ca213869)
+![경쟁 서비스 분석 1](https://github.com/user-attachments/assets/cc90344a-131e-4b40-b8b9-7f675e5c0034)
+![경쟁 서비스 분석 2](https://github.com/user-attachments/assets/c5170862-de8f-4c72-ac90-72fcb3b92845)
+![문제 정의 및 솔루션 도출](https://github.com/user-attachments/assets/5c3c32e2-20ab-4d90-862b-d89b9f531962)
+![서비스 정의](https://github.com/user-attachments/assets/9295804d-0e16-417f-8591-972ddf68e0a7)
+![타겟 유저](https://github.com/user-attachments/assets/59c0e541-5ff9-4bab-b4f4-a8c1fbed5ac2)
+![비즈니스 모델](https://github.com/user-attachments/assets/fe3511bd-9c7d-4a97-8d51-7e6aaf67aa77)
 
-</p>
 
   <hr/>
